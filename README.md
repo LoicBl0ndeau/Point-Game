@@ -90,3 +90,4 @@ setTimeout(function(){
 ## 📦 Setup
 
 Just open the game in a modern web browser — no installation needed.
+⚠️ A chrome-based web browser is preferred for performance
